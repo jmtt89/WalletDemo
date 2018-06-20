@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoWalletApp</string>
+    <string name="title_pass_detail">Pass Detail</string>
+
+    <string name="label_url">URL</string>
+    <string name="btn_paste_url">Paste Url</string>
+
+</resources>
